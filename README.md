@@ -9,5 +9,5 @@ Put the HTPC folder into your Launchy skins directory.
 
 On a random selection of boxes that I have used, this has been:
 
-Windows XP: C:\Program Files\Launchy\skins\
-Windows 7: C:\Program Files (x86)\Launchy\skins\ 
+* Windows XP: C:\Program Files\Launchy\skins\
+* Windows 7: C:\Program Files (x86)\Launchy\skins\ 
